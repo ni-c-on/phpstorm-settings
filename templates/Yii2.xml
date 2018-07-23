@@ -1,0 +1,9 @@
+<templateSet group="Yii2">
+  <template name="t" value="\Yii::t('$CATEGORY$', '$MESSAGE$')$END$" description="Shortcut for Yii:t" toReformat="false" toShortenFQNames="true">
+    <variable name="CATEGORY" expression="enum(&quot;app&quot;,&quot;frontend&quot;,&quot;backend&quot;,&quot;common&quot;)" defaultValue="app" alwaysStopAt="true" />
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Expression" value="true" />
+    </context>
+  </template>
+</templateSet>

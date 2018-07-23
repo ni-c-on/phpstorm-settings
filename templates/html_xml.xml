@@ -1,0 +1,7 @@
+<templateSet group="html/xml">
+  <template name="=" value="&lt;?= $END$ ?&gt;" description="&lt;?= ?&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
