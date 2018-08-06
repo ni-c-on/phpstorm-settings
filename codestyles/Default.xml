@@ -1,3 +1,8 @@
 <code_scheme name="Default" version="173">
   <option name="SOFT_MARGINS" value="80,120" />
+  <PHPCodeStyleSettings>
+    <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
+    <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
+    <option name="PHPDOC_USE_FQCN" value="true" />
+  </PHPCodeStyleSettings>
 </code_scheme>
