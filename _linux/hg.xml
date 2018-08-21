@@ -1,5 +1,10 @@
 <application>
   <component name="HgGlobalSettings">
     <option name="myHgExecutable" value="hg" />
+    <option name="myRememberedUserNames">
+      <map>
+        <entry key="vcs.newit-lan.ru:8001/_68" value="nicon" />
+      </map>
+    </option>
   </component>
 </application>
