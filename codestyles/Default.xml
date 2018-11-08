@@ -5,4 +5,7 @@
     <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
     <option name="PHPDOC_USE_FQCN" value="true" />
   </PHPCodeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="SPACE_AFTER_TYPE_CAST" value="true" />
+  </codeStyleSettings>
 </code_scheme>
