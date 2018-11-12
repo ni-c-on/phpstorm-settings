@@ -6,6 +6,10 @@
           <option name="url" value="http://vcs.newit-lan.ru:8001" />
           <option name="userName" value="nicon" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://riola.ghl.lan:8001" />
+          <option name="userName" value="nicon" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
