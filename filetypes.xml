@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="cache" type="Native" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
