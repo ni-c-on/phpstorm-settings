@@ -2,7 +2,7 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
-  <action id="CloseActiveTab">
+  <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="EditorSelectWord" />
