@@ -1,8 +1,5 @@
 <application>
   <component name="LogHighlightingSettings">
-    <parsingPatterns>
-      <LogParsingPattern enabled="false" name="slim" timePattern="yyyy" />
-    </parsingPatterns>
     <settingsVersion>4</settingsVersion>
     <lastAddedDefaultFormat>3</lastAddedDefaultFormat>
   </component>
