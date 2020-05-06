@@ -1,3 +1,10 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
+  <inspection_tool class="PhpFullyQualifiedNameUsageInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="IGNORE_GLOBAL_NAMESPACE" value="true" />
+  </inspection_tool>
+  <inspection_tool class="PhpUnhandledExceptionInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="PhpUnused" enabled="true" level="WEAK WARNING" enabled_by_default="true" field_visibility="protected" method_visibility="protected" const_visibility="protected">
+    <option name="CLASS" value="false" />
+  </inspection_tool>
 </profile>
