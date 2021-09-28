@@ -1,0 +1,6 @@
+<keymap version="1" name="KDE copy" parent="Default for KDE">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
+  <action id="ActivateRunToolWindow" />
+</keymap>
